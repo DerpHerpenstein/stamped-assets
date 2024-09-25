@@ -1,15 +1,15 @@
 # Stamped Assets
 assets stamped onto bitcoin intended for use in recursive projects
 
-| Asset Name | Github URL | Stamp CPID | Description |
-| -------- |-------- | ------- | ------- |
-| MIT License | | A4154839259198649000 | The MIT License |
-| append.js | N/A | A6677669155563188000| A tiny helper library to easily load gzipped libraries into the DOM |
-| w.full.js.gz | https://github.com/xem/W | A10207619717431880000 | A micro WebGL2 framework with a ton of features |
-| tinyMusic.js.gz | https://github.com/kevincennis/TinyMusic/ | A10744398257522688000 | A simple, lightweight music synth/sequencer in JavaScript |
-| q5.js.gz | https://github.com/LingDong-/q5xjs | A5297629053831280000 | q5.js is a small and fast alternative (experimental) implementation of p5.js, |
-| bonsai.min.css.gz | https://github.com/bonsaicss/bonsai.css | A14391816994242124000 | Bonsai CSS is a super lightweight, fully responsive, utility first css framework |
-| unpruneableCardsV0.js | N/A | A8302042006154452000 | A template for making recursive cards |
+| Asset Name | Stamp CPID | Description |
+| -------- | ------- | ------- |
+| MIT License | A4154839259198649000 | The MIT License |
+| append.js | A6677669155563188000| A tiny helper library to easily load gzipped libraries into the DOM |
+| [w.full.js.gz](https://github.com/xem/W ) | A10207619717431880000 | A micro WebGL2 framework with a ton of features |
+| [tinyMusic.js.gz](https://github.com/kevincennis/TinyMusic/) | A10744398257522688000 | A simple, lightweight music synth/sequencer in JavaScript |
+| [q5.js.gz](https://github.com/LingDong-/q5xjs) | A5297629053831280000 | q5.js is a small and fast alternative (experimental) implementation of p5.js, |
+| [bonsai.min.css.gz](https://github.com/bonsaicss/bonsai.css) | A14391816994242124000 | Bonsai CSS is a super lightweight, fully responsive, utility first css framework |
+| unpruneableCardsV0.js | A8302042006154452000 | A template for making recursive cards |
 
 
 # Recursive Examples
